@@ -1,0 +1,8 @@
+orb-models
+fastapi
+uvicorn
+pymatgen
+ase
+fairchem
+huggingface_hub
+torch
